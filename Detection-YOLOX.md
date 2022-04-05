@@ -19,9 +19,9 @@
 ## 训练改进
 ### 1. Mosaic 数据增强
 来自于yolov3， 通过随机缩放，随机裁剪，随机排布的方式进行拼接，对于小目标的检测效果提升明显。
-![Mosatic数据增强](图片/Mosatic数据增强.png)
+![Mosatic数据增强](图片/数据增强Mosatic.png)
 ### 2. MixUp 数据增强
-![MixUp数据增强](图片/MixUp数据增强.png)
+![MixUp数据增强](图片/数据增强MixUp.png)
 
 ## 实际训练trike
 1. 使用了consine lr schedule。这个只是在之前听到过，第一次看到实际使用的项目。
