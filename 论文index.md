@@ -30,4 +30,4 @@ Tools 工具 和 理论
 
 
 未完成
-[[未完成DetectionFace-Yolo5Face]]
+[[DetectionFace-Yolo5Face]]
