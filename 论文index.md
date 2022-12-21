@@ -3,7 +3,7 @@
 
 Backbone
 [[Backbone-AlexNet笔记]]
-[[Backbone-BottleneckTransformers]]]]
+[[Backbone-BottleneckTransformers]]
 [[Backbone-RegNet]]
 [[Backbone-ResNet]]
 [[Backbone-Transformer模型]]
@@ -28,6 +28,11 @@ Tools 工具 和 理论
 [[Tools-MMDetection]]
 [[Tools-SGD]]
 
+X-ray Security Inspection Of Occluded Items
+[[A Data Augmentation Method for Prohibited Item X-Ray Pseudocolor Images in X-Ray Security Inspection Based on Wasserstein Generative Adversarial Network and Spatial-and-Xhannel Attention Block]]
+
+Data Augmentation
+[[A Data Augmentation Method for Prohibited Item X-Ray Pseudocolor Images in X-Ray Security Inspection Based on Wasserstein Generative Adversarial Network and Spatial-and-Xhannel Attention Block]]
 
 未完成
 [[DetectionFace-Yolo5Face]]
